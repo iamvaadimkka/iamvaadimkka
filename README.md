@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @iamvaadimkka
+- 👋 Hi, I’m @vaadimkka
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++/JS/Python/HTML/CSS
+- 🌱 I’m currently learning C++/Java
 
-- 📫ow to reach me iamvaadimkka@gmail.com or @vadimpasenchuk on Telegram.
+- 📫ow to reach me iamvaadimkka@gmail.com.
 
 <!---
 iamvaadimkka/iamvaadimkka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
